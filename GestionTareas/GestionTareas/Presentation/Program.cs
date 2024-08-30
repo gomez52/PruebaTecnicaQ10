@@ -49,7 +49,7 @@ namespace GestionTareas
                         for (int i = 0; i < tareas.Count; i++)
                         {
                             var tarea = tareas[i];
-                            Console.WriteLine($"{i + 1}. {tarea.Descripcion} - Fecha limite: {tarea.FechaLimite?.ToString("dd/mm/yyyy") ?? "No especificada"} - Completada: {tarea.EstaCompleta}");
+                            Console.WriteLine($"{i + 1}. {tarea.Descripcion} - Fecha limite: {tarea.FechaLimite?.ToString("dd/MM/yyyy") ?? "No especificada"} - Completada: {tarea.EstaCompleta}");
                             
                         }
                         Console.WriteLine("\nPresione cualquier tecla para continuar...");
