@@ -5,9 +5,11 @@ Bienvenido al repositorio de **Prueba Técnica Q10**. Este proyecto está diseñ
 ## Contenido
 
 Es una aplicacion de consola diseñada para registrar tareas en una lista con una fecha limite y marcar la tarea como terminada cuando asi sea.
-#1 Descargar o clonar el proyecto de https://github.com/gomez52/PruebaTecnicaQ10.git
-#2 Compilar el proyecto.    
-#3 Seguir las instrucciones del menu.
+1 Descargar o clonar el proyecto de https://github.com/gomez52/PruebaTecnicaQ10.git
+
+2 Compilar el proyecto.    
+
+3 Seguir las instrucciones del menu.
 
 ## Descripción del Proyecto
 
