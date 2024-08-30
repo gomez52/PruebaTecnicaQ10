@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\bin\Debug\GestionTareas.exe.config
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\bin\Debug\GestionTareas.exe
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\bin\Debug\GestionTareas.pdb
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\obj\Debug\GestionTareas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\obj\Debug\GestionTareas.exe
+C:\Users\USER\source\repos\GestionTareas\GestionTareas\obj\Debug\GestionTareas.pdb
